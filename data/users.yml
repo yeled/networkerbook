@@ -1901,6 +1901,13 @@ stevoo:
   country: se
   full_name: Stefan Larsson
   rir_handle: []
+stoepsel:
+  companies:
+  - as31078
+  - as9033
+  country: nl
+  full_name: Stefan Plug
+  rir_handle: []
 suom1:
   companies:
   - as20514
