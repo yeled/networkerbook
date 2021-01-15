@@ -629,7 +629,8 @@ ZaphodB:
   - as5430
   - as60955
   country: de
-  full_name: Stefan Schmidt
+  full_name: 
+Schmidt
   rir_handle:
   - ZAP
 Zoiah:
@@ -1900,6 +1901,12 @@ stevoo:
   companies: []
   country: se
   full_name: Stefan Larsson
+  rir_handle: []
+stoepsel:
+  companies:
+  - as9033
+  country: nl
+  full_name: Stefan Plug
   rir_handle: []
 suom1:
   companies:
